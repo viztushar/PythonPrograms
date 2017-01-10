@@ -23,7 +23,7 @@ Python Programs
 ***
 
 ```
-Copyright [2017] [viztushar](https://github.com/viztushar)
+Copyright [2017] [viztushar]
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
