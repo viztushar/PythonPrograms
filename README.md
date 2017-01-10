@@ -20,6 +20,7 @@ Python Programs
 ## Practical-5 ##
 
 [WAP to find N! Using function.](https://github.com/viztushar/PythonPrograms/blob/master/Practical-5.py)
+***
 
 ```
 Copyright [2017] [viztushar](https://github.com/viztushar)
